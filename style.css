@@ -1,0 +1,13 @@
+body{
+    background-color: #252525;
+}
+.container{
+    margin-top: 270px ;
+    text-align: center;
+
+}
+.container h1{
+    color: #f0f8ff;
+    font-size:1200;
+    font-family: 'Courier New', Courier, monospace;
+}
